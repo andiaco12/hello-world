@@ -1,2 +1,2 @@
-# hello-world
+# BELAJAR 
 like ordinary people
