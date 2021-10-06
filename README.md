@@ -1,2 +1,2 @@
 # BELAJAR 
-like ordinary people
+Mencoba Memahami Coding
